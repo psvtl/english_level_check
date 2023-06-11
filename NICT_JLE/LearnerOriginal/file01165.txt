@@ -1,0 +1,184 @@
+<interview>
+<filename>file01165.txt</filename>
+
+<head version="1.3">
+<date>2002-07-09</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> <F>uh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uhu</F>.</A>
+<ctxt>There seems to be a problem with the recorder.</ctxt>
+<A>Let's try again. So how are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Um</F> Sorry. Pardon?</B>
+<A><F>Um</F>. How are you today?</A>
+<B><F>Um</F> today is very hot.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>So</OL> I'm very tired.</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL>And</OL> tonight <F>um</F> <F>erm</F> <F>uum</F> it is very hot and so <R>I'm</R> <SC>I'm not</SC> <F>er</F> <F>er</F> <R>I was</R> <F>er</F> <SC>I was</SC> <F>ee</F> <SC>I slept</SC> <F>um</F> <F>ee</F> <nvs>laughter</nvs> I don't slept a while.</B>
+<A><F>Hum</F>.</A>
+<B>So today, <F>uum</F> <R>I'm</R> I'm tired a little.</B>
+<A><F>Oh</F> I see. So <F>erm</F> what do you do, <H pn="B's name">XXX02</H>?</A>
+<B><F>Um</F> <SC>I'm</SC> I am graduate school of <H pn="school name1">XXX03</H> University.</B>
+<A><F>Hum</F>.</A>
+<B>I'm a graduate student.</B>
+<A><F>Hum</F>. So what do you study?</A>
+<B>I study <F>uum</F> Media Science, it mean <F>uum</F> for example, internet or <F>uum</F> virtual reality. <SC>Or</SC> <F>uum</F> <SC>the</SC> I study the effect of <F>err</F> medias <F>uum</F> for human. <OL><F>Er</F></OL>.</B>
+<A><OL><F>Hum</F></OL>. I see. O K. When you have free time, what do you usually do?</A>
+<B><SC>Usually</SC> <F>err</F> weekday, <R>I</R> I usually go <F>uum</F> school</B>
+<A><F>Um</F>.</A>
+<B>and my laboratory. And just only <SC>Sun</SC> on Sunday, <R>I</R> I stay home and I relax.</B>
+<A><F>Oh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> And <F>um</F> <R>I</R> <F>um</F> I don't work.</B>
+<A><F>Hum</F>. Do you have any hobby?</A>
+<B>Yes. <F>Err</F> <R>I</R> I'm interested in computer graphics.</B>
+<A><F>Hum</F>.</A>
+<B>So <F>uum</F> <R>wa</R> watching the movies or <F>uum</F> playing the T V games.</B>
+<A><F>Hum</F>. I see. <F>Err</F> where <SC>do you from</SC> do you come from?</A>
+<B><F>Um</F> I'm from <F>uum</F> <H pn="others1">XXX04</H> in <H pn="others2">XXX05</H>-<JP>ku</JP>. I live <R>in</R> in <H pn="others2">XXX05</H>-<JP>ku</JP> <F>uum</F> <F>uum</F> <R>from</R> <F>um</F> from I was born.</B>
+<A><F>Hum</F> <F>um</F> I see. What is it like? I've never been to <F>er</F> <H pn="others1">XXX04</H>.</A>
+<B>Yes. <F>Err</F> <R>I</R> <F>um</F> <SC>I've never been other</SC> <SC?>I live</SC?> I had never lived other place.</B>
+<A><F>Hum</F>. What is it like?</A>
+<B><F>Uum</F>.</B>
+<A>Your town?</A>
+<B><laughter><F>Uum</F></laughter> <F>um</F> recently, <F>uum</F> <SC>very</SC> <F>uum</F> my town <SC>is</SC> was developed <F>um</F> very much. <F>Um</F> but <F>uum</F> <R>my</R> <F>ee</F> my home is</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><F>um</F></OL> <F>uum</F> is <F>uum</F> a little <F>uu</F> <R>far</R> far. <F>Uum</F>. <CO>So</CO>. <.></.> <F>Uum</F> <.></.> <F>um</F> <F>uum</F>.</B>
+<A><F>Um</F>?</A>
+<B>Around the station <R>is very <F>uum</F> developed</R> <F>um</F> is very developed. But <F>um</F> <SC>my</SC> <F>er</F> around my home, <F>uum</F> not so much.</B>
+<A><F>Oh</F> I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'll show you a picture. Would you describe it for me?</A>
+<B>Yes. <F>Uum</F> <.></.> it is <F>uum</F> a woman's room.</B>
+<A><F>Uhu</F>.</A>
+<B>And <SC>there is</SC> <F>uum</F> there are <F>uum</F> <.></.> <SC>the</SC> <F>um</F> a woman <R>and</R> and two animals. <F>Um</F> one is a dog, another is a cat. <F>Um</F> and <R>she</R> <F>uum</F> she <SC>sitting</SC> sit down the chair. And <F>uum</F> <..></..> on the desk, <F>uum</F> <R>there are</R> there are computers and word processors on the desk. And <F>uum</F> clock is <F>uum</F> on the wall and <..></..> <F>uum</F> <.></.> <SC>the <F>uum</F> <..></..> audio components</SC> <F>ee</F> there is audio components on the <F>uum</F> desk.</B>
+<A><F>Um</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, <F>err</F> would you tell me <F>err</F> the differences between your room <OL>and this room</OL>?</A>
+<B><OL><F>Er</F></OL> <F>uum</F> <..></..> <F>um</F> <F>er</F> <R>I</R> <R>I'm</R> I'm not <F>ee</F> keep the dog.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>uum</F> <.></.> <R>I</R> I don't have <F>uum</F> <.></.> the <F>uum</F> audio components <F>uum</F> such as this picture's.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. <.></.> I have a computers, too. Only two.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>And</OL> <F>uum</F> <.></.> I have also <F>uum</F> the desks <R>looks</R> looks <F>uum</F> <.></.> this picture's.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <CO>Like</CO>. <.></.> <OL><??></??></OL></B>
+<A><OL><R>O K</R></OL> O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now <F>err</F> let's do a role-play. Would you read it to yourself, and when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading a card and thinking for a while.</ctxt>
+<A>Ready?</A>
+<B><.></.> Yes.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>Hello. This is <H pn="A's name">XXX01</H>. <OL>On the phone</OL>.</A>
+<B><OL><F>Um</F></OL> <F>um</F>. Hello. <F>Um</F> this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F> <OL>Hi</OL>.</A>
+<B><OL><F>Um</F></OL>. <F>Uum</F> <F>uum</F> <SC>do you</SC> <F>um</F> <R>le</R> let's <F>uum</F> watch the movie together.</B>
+<A><F>Hum</F>. <OL>Sounds nice</OL>.</A>
+<B><OL><F>Hum</F></OL> <F>um</F> <F>uum</F> <.></.> <R>have you</R> have you free time <F>um</F> <F>uum</F> on weekend?</B>
+<A><F>Er</F> yes. I think so.</A>
+<B><F>Oh</F>. <CO>So</CO>. <F>Uum</F>.</B>
+<A>Wait. I have a <SC>job</SC> part time job.</A>
+<B><F>Oh</F> <F>um</F> so <F>uum</F> how about on Sunday?</B>
+<A><F>Uhu</F>.</A>
+<B><OL>O K</OL>?</B>
+<A><OL><F>Well</F></OL> <R>I</R> I have a part time job <OL>again but <F>er</F> <F>Uhu</F></OL>.</A>
+<B><OL><??></??></OL>. So <F>uum</F> <.></.> <R>when</R> <R>when do you</R> <F>uum</F> when do you have <SC>time</SC> free time?</B>
+<A><F>Uum</F> after three.</A>
+<B>After three? <OL>On Sunday</OL>?</B>
+<A><OL><F>Um</F> <F>um</F></OL>. Yeah.</A>
+<B><F>Um</F> so <F>uum</F> I would like to go <F>uum</F> Yurakuchyo.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><F>Uum</F></OL> so <F>uum</F> <F>uum</F> <F>um</F> <R>can</R> <R>can you go</R> can you go there <F>um</F> <F>um</F> four o'clock <F>um</F> on Sunday?</B>
+<A><F>Er</F> Yurakuchyo. It sounds far from my house.</A>
+<B><F>Oh</F> so <F>um</F> <.></.> what time <F>uum</F> can you go there?</B>
+<A><F>Erm</F> maybe around five.</A>
+<B>Five?</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>So</OL> <F>uum</F> yes, O K. <F>Err</F> so <R>let's</R> <F>uum</F> <.></.> let's meet on five o'clock on Sunday. <F>Uum</F> <R>can you</R> <F>ee</F> can you go there five o'clock?</B>
+<A>I think so. Yeah.</A>
+<B><F>Oh</F>. <CO>So</CO>. <F>Uum</F>.</B>
+<A>But <SC>what are you going to</SC> <F>er</F> what are we going to see?</A>
+<B><F>Erm</F> so <.></.> <SC>what do you</SC> <SC>what line</SC> what train lines do you use <F>uum</F> for Yurakuchyo?</B>
+<A><F>Err</F> I use Hanzomon Line.</A>
+<B>Hanzomon Line?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Uum</F> <F>um</F> <R>I</R> I'll use <F>uum</F> Keihin Tohoku Line.</B>
+<A><F>Uhu</F>.</A>
+<B>So <R>I</R> I don't know Hanzomon Line's <F>uum</F> entrance.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>uum</F> <..></..> <F>um</F> <R>can you go</R> can you go the entrance of J R lines?</B>
+<A>O K.</A>
+<B><F>Um</F> <R>so</R> <F>uum</F> <R>so let's meet</R> <F>uum</F> <F>er</F> let's meet at J R entrance <R>at</R> at five o'clock on Sunday.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A>O K. Sounds good. Thank you for calling. Bye-bye.</A>
+<B>Good-bye.</B>
+<A>O K. This is the <R>end of</R> end of the role-play.</A>
+</task>
+<followup>
+<A><F>Um</F> do you prefer <F>er</F> watching movies at cinema or <F>er</F> watching the video at home?</A>
+<B><F>Uum</F> no, <F>uum</F> <R>when I</R> when I watch the movie, <F>um</F> <.></.> <F>uum</F> <.></.> <SC>I were</SC> <F>uum</F> I will not <F>uum</F> taking a information about this movie, so <F>uum</F> <.></.> <R>I</R> <F>um</F> <R>I</R> I watched the movie <F>uum</F> so <F>uum</F> neutral stance. <F>Err</F> it mean <F>ee</F> no informations <F>er</F> <F>um</F> and no backgrounds.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter><R>So</R></laughter> so <R>I</R> <R>I</R> <R>I can</R> <F>uum</F> I can watch the movie <F>um</F> <F>uum</F> <.></.> <R>f</R> <R>fresh</R> <F>um</F> fresh mind. <F>Um</F>. <.></.> <CO>So</CO>.</B>
+<A><R>O K</R> O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'll show you the last picture. I want you to make up a story.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. Make up a story based on one to six. And it happened before. So please start your story with "One day last week". Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Uum</F> a man and his son <F>uum</F> <R>went to</R> went to restaurant <F>uum</F> <.></.> one day last week. And <F>um</F> <R>he reserved</R> he reserved a seat and <.></.> <F>uum</F> <R>called the staff and</R> called the staff and <F>um</F> <..></..> <F>err</F> <??></??>. And <..></..> a man and his son <F>uum</F> <F>uum</F> <..></..> <F>uum</F> decide <F>err</F> food <F>uum</F> from menus. And <..></..> <F>uum</F> <F>um</F> <R>they</R> <F>um</F> <..></..> <R>they</R> <F>uum</F> they take <SC>a chicken and fish</SC> <F>uum</F> chickens and fish and some drinks. And his son <F>uum</F> drunk a beer and he <F>uum</F> drunk a wine. <..></..> <F>Uum</F> they ate <SC>very much and</SC> <.></.> very much. <F>Err</F> <SC>and the</SC> <..></..> but <F>err</F> <.></.> <SC>the cost of dinner</SC> <F>uum</F> <R>a</R> <R>a</R> a man <R>paid</R> <F>er</F> paid <R>all</R> all cost of the dinner. <F>Err</F> <.></.> his son <F>uum</F> <R>do not pay</R> <.></.> do not pay <R>any</R> any money. And <..></..> he and his son <F>uum</F> <.></.> <R>goes</R> <F>uum</F> <..></..> goesÅ@<.></.>Å@<SC>each other</SC> <F>uum</F> other place each other. <SC>So</SC> <F>uum</F> <SC>and they called</SC> and <R>they</R> <F>err</F> <.></.></B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> they went <F>um</F> <.></.> other place and each other <OL><laughter><??></??></laughter></OL>.</B>
+<A><OL>O K</OL>. <F>Well</F> thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. <F>Er</F> what are you going to do after this?</A>
+<B>After this <F>uum</F> <F>um</F> <R>I</R> I go back <F>uum</F> my laboratory room</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>and</OL> <F>uum</F> <R>I</R> <F>um</F> I have to <R>write</R> <F>uum</F> write <F>er</F> <SC>reports</SC> some reports.</B>
+<A><F>Er</F> write a report. When is the due?</A>
+<B><F>Uum</F> <F>um</F> today, <F>err</F> <R>I</R> I give <SC>presentat</SC> some presentation</B>
+<A><F>Oh</F> today?</A>
+<B><R>on</R> <R>on</R> on my <SC>la</SC> <F>er</F> seminar.</B>
+<A><F>Err</F>.</A>
+<B>So I prepare this presentation.</B>
+<A><F>Oh</F> I see. <F>Well</F> good luck <OL>on your</OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>presentation. And thank you so much for coming today.</A>
+<B><F>Um</F> thank you.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>
+
